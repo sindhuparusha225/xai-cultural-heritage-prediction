@@ -31,3 +31,11 @@ Python, Pandas, NumPy, scikit-learn, XGBoost, SHAP, LIME, Matplotlib
 ## How to Run
 pip install -r requirements.txt
 Run the notebook or script
+
+## Sample Output
+
+### SHAP Visualization
+![SHAP Plot](output/shap_summary.png)
+
+### Model Performance
+See detailed results in: `output/results.csv`
