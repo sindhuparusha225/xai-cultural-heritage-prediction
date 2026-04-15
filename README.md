@@ -15,6 +15,10 @@ This project uses machine learning and Explainable AI (XAI) to predict cultural 
 ## Tech Stack
 Python, Pandas, NumPy, scikit-learn, XGBoost, SHAP, LIME, Matplotlib
 
+## Dataset
+Dataset used: Cultural Heritage Apps Dataset  
+(Source: Kaggle / Research dataset)
+
 ## Workflow
 1. Data preprocessing and cleaning
 2. Feature engineering
