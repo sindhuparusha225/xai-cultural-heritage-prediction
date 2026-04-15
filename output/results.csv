@@ -1,0 +1,4 @@
+Model,Accuracy,Type
+XGBoost,93.7,Primary
+RandomForest,91.1,Comparison
+SVM,89.4,Comparison
