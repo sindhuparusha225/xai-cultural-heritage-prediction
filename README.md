@@ -20,7 +20,9 @@ Dataset used: Cultural Heritage Apps Dataset
 (Source: Kaggle / Research dataset)
 
 ## Research Paper
-[View Full Research Paper](xai_research_paper.pdf)
+📄 [Download Research Paper](xai_research_paper.pdf)
+
+This paper presents the full implementation, methodology, and evaluation of the XAI-based prediction model.
 
 ## Workflow
 1. Data preprocessing and cleaning
@@ -49,3 +51,7 @@ Run the notebook or script
 
 ### Model Performance
 See detailed results in: `output/results.csv`
+
+## Contribution
+- Worked on model development, training, and evaluation
+- Implemented XAI techniques using SHAP and LIME
