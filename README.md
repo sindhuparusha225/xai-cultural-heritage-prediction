@@ -1,32 +1,33 @@
 # XAI-Based Cultural Heritage App Prediction
 
 ## Overview
-This project predicts cultural heritage app engagement using machine learning and Explainable AI (XAI).
+This project uses machine learning and Explainable AI (XAI) to predict cultural heritage app engagement and understand key influencing factors.
 
-## Features
-- Model built using XGBoost
+## Key Features
+- Built using XGBoost for high-performance prediction
 - Achieved ~93.7% accuracy
-- Implemented SHAP and LIME for explainability
-- Identified key features influencing predictions
+- Implemented SHAP and LIME for model explainability
+- Identified important features affecting predictions
 
 ## Tech Stack
-Python, scikit-learn, XGBoost, SHAP, LIME, Matplotlib
+Python, Pandas, NumPy, scikit-learn, XGBoost, SHAP, LIME, Matplotlib
 
 ## Workflow
 1. Data preprocessing and cleaning
 2. Feature engineering
-3. Model training and evaluation
-4. Explainability analysis using SHAP & LIME
+3. Model training (XGBoost)
+4. Model evaluation
+5. Explainability using SHAP & LIME
 
 ## Results
 - Accuracy: ~93.7%
-- Key features: User engagement metrics, metadata
+- Top features: engagement metrics, metadata
 
-## Outputs
+## Output
 - SHAP summary plots
 - LIME explanations
-- Performance metrics
+- Model performance metrics
 
 ## How to Run
 pip install -r requirements.txt
-run the notebook or script
+Run the notebook or script
