@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-XGBoost-orange)
+![XAI](https://img.shields.io/badge/XAI-SHAP%20%7C%20LIME-green)
 # XAI-Based Cultural Heritage App Prediction
 
 ## Overview
