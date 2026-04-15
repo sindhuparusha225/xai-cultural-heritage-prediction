@@ -19,6 +19,9 @@ Python, Pandas, NumPy, scikit-learn, XGBoost, SHAP, LIME, Matplotlib
 Dataset used: Cultural Heritage Apps Dataset  
 (Source: Kaggle / Research dataset)
 
+## Research Paper
+[View Full Research Paper](xai_research_paper.pdf)
+
 ## Workflow
 1. Data preprocessing and cleaning
 2. Feature engineering
