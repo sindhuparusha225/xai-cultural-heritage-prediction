@@ -53,5 +53,7 @@ Run the notebook or script
 See detailed results in: `output/results.csv`
 
 ## Contribution
-- Worked on model development, training, and evaluation
-- Implemented XAI techniques using SHAP and LIME
+- Developed and trained machine learning models (XGBoost)
+- Implemented explainability techniques using SHAP and LIME
+- Performed data preprocessing and feature engineering
+  
