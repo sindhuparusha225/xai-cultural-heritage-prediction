@@ -2,6 +2,7 @@
 ![ML](https://img.shields.io/badge/Machine%20Learning-XGBoost-orange)
 ![XAI](https://img.shields.io/badge/XAI-SHAP%20%7C%20LIME-green)
 # XAI-Based Cultural Heritage App Prediction
+This project focuses on building interpretable machine learning models using SHAP and LIME.
 
 ## Overview
 This project uses machine learning and Explainable AI (XAI) to predict cultural heritage app engagement and understand key influencing factors.
